@@ -1,0 +1,4 @@
+﻿Introduction
+
+
+Bangalore (Bengaluru) is a bustling metropolis of India. People from all walks of life find their way into this diverse city. Due to a large tech industry that creates thousands of jobs a year, there is a huge influx in population every year. Finding a place to stay is one of the first things to do, and one major factor in determining that is what facilities and attractions a neighborhood offers.  Neighborhoods analysis is also an important tool for businesses in determining where to open their shop. They can either focus on areas known for their specific industry, such as all restaurants being concentrated in a few streets, or they can purposefully open up in areas that have lesser competition. We will be clustering the different neighborhoods in Bangalore based on their 10 most popular attractions.
