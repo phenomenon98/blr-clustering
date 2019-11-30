@@ -1,1 +1,2 @@
-# coursera-ds--finalproject
+# Applied Data Science Capstone
+Neighbohood Clustering
